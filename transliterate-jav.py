@@ -218,6 +218,6 @@ else:
 	if len (sys.argv) == 2:
 		to_translate = sys.argv[1]
 	else:
-		to_translate = "".join(sys.argv[1:])
+		to_translate = " ".join(sys.argv[1:])
 
 	print(transliterate(to_translate, dicts.return_javtolatin()))
