@@ -1,0 +1,13 @@
+Based on:
+transliterator.js (Jawa-Latin / Javanese Script to Latin)
+https://bennylin.github.com/transliterasijawa
+
+Copyright 2013, Bennylin @bennylin
+Released under the CC-BY-SA.
+
+Date: 11 April 2013 - v 0.5
+Date: 25 Juli 2013 - v 0.6
+
+Ported to Python 3 by Joshua Ramon Enslin
+Date: 03 February 2017
+https://github.com/jrenslin/transliteration-javanese
